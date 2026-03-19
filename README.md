@@ -1,7 +1,6 @@
 # Vendor-Profitability-Insights
-# Vendor Performance Analysis
 
-## Overview
+
 
 This project explores vendor performance data to understand sales trends, identify top-performing vendors, and highlight areas for improvement. It includes data analysis, visualization, and a dashboard for better decision-making.
 
@@ -12,7 +11,7 @@ This project explores vendor performance data to understand sales trends, identi
 * Understand revenue distribution and trends
 * Create a visual dashboard for insights
 
-## Tools & Technologies
+## Tools
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
 * Jupyter Notebook
