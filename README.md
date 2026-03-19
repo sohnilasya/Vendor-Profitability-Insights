@@ -1,5 +1,5 @@
 # Vendor-Profitability-Insights
-# 📊 Vendor Performance Analysis
+# Vendor Performance Analysis
 
 ## Overview
 
